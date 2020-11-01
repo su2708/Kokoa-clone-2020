@@ -10,18 +10,10 @@
     flex-direction: column;
 }
 
-.icon-row__column-1 {
+.icon-row__column{
     display: flex;
     margin-bottom: 35px;
     justify-content: space-between;
-}
-
-.icon-row__column-2 {
-    display: flex;
-}
-
-.icon-row__column-2 .icon-row__icon {
-    margin-right: 27px;
 }
 
 .more-suggestions {
