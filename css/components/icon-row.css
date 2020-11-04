@@ -16,3 +16,7 @@
 .icon-row__icon span {
     margin-top: 15px;
 }
+
+.icon-row__blank {
+    width: 70px;
+}
