@@ -16,8 +16,13 @@
     width: 33%;
 }
 
-.alt-header__column span{
+.alt-header__column:last-child{
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
+    align-items: center;
+    position: relative;
+}
+
+.alt-header__column:last-child span {
+    margin-left: 20px;
 }
