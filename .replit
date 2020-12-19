@@ -1,2 +1,6 @@
 language = "html"
+<<<<<<< HEAD
 run = ""
+=======
+run = "echo hello world"
+>>>>>>> master
